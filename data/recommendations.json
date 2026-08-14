@@ -1,0 +1,92 @@
+[
+  {
+    "id": "digital-scale",
+    "label": "Digital scale",
+    "query": "Digital scale",
+    "fit": "Useful support item for handmade pricing calculator."
+  },
+  {
+    "id": "label-printer",
+    "label": "Label printer",
+    "query": "Label printer",
+    "fit": "Useful support item for handmade pricing calculator."
+  },
+  {
+    "id": "clear-storage-bins",
+    "label": "Clear storage bins",
+    "query": "Clear storage bins",
+    "fit": "Useful support item for handmade pricing calculator."
+  },
+  {
+    "id": "measuring-cups-set",
+    "label": "Measuring cups set",
+    "query": "Measuring cups set",
+    "fit": "Useful support item for materials cost calculator."
+  },
+  {
+    "id": "storage-jars",
+    "label": "Storage jars",
+    "query": "Storage jars",
+    "fit": "Useful support item for materials cost calculator."
+  },
+  {
+    "id": "inventory-labels",
+    "label": "Inventory labels",
+    "query": "Inventory labels",
+    "fit": "Useful support item for materials cost calculator."
+  },
+  {
+    "id": "folding-table-cover",
+    "label": "Folding table cover",
+    "query": "Folding table cover",
+    "fit": "Useful support item for craft fair break-even calculator."
+  },
+  {
+    "id": "portable-card-reader-stand",
+    "label": "Portable card reader stand",
+    "query": "Portable card reader stand",
+    "fit": "Useful support item for craft fair break-even calculator."
+  },
+  {
+    "id": "display-risers",
+    "label": "Display risers",
+    "query": "Display risers",
+    "fit": "Useful support item for craft fair break-even calculator."
+  },
+  {
+    "id": "shipping-scale",
+    "label": "Shipping scale",
+    "query": "Shipping scale",
+    "fit": "Useful support item for shipping weight estimator."
+  },
+  {
+    "id": "mailer-variety-pack",
+    "label": "Mailer variety pack",
+    "query": "Mailer variety pack",
+    "fit": "Useful support item for shipping weight estimator."
+  },
+  {
+    "id": "thermal-labels",
+    "label": "Thermal labels",
+    "query": "Thermal labels",
+    "fit": "Useful support item for shipping weight estimator."
+  },
+  {
+    "id": "pricing-notebook",
+    "label": "Pricing notebook",
+    "query": "Pricing notebook",
+    "fit": "Useful support item for product line scorecard."
+  },
+  {
+    "id": "inventory-tags",
+    "label": "Inventory tags",
+    "query": "Inventory tags",
+    "fit": "Useful support item for product line scorecard."
+  },
+  {
+    "id": "storage-bins",
+    "label": "Storage bins",
+    "query": "Storage bins",
+    "fit": "Useful support item for product line scorecard."
+  }
+]

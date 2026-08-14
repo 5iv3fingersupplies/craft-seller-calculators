@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "handmade-pricing-calculator",
+    "title": "Handmade Pricing Calculator",
+    "category": "Pricing",
+    "kind": "pricing",
+    "description": "Price an item from materials, labor, overhead, and margin.",
+    "fields": [
+      {
+        "id": "materials",
+        "label": "Materials cost",
+        "type": "number",
+        "value": 8
+      },
+      {
+        "id": "hours",
+        "label": "Labor hours",
+        "type": "number",
+        "value": 1.5
+      },
+      {
+        "id": "rate",
+        "label": "Hourly rate",
+        "type": "number",
+        "value": 22
+      },
+      {
+        "id": "overhead",
+        "label": "Overhead/packaging",
+        "type": "number",
+        "value": 4
+      },
+      {
+        "id": "margin",
+        "label": "Target margin percent",
+        "type": "number",
+        "value": 35
+      }
+    ],
+    "recommendation_ids": [
+      "digital-scale",
+      "label-printer",
+      "clear-storage-bins"
+    ]
+  },
+  {
+    "slug": "materials-cost-calculator",
+    "title": "Materials Cost Calculator",
+    "category": "Materials",
+    "kind": "materials",
+    "description": "Break bulk material purchases into per-item costs.",
+    "fields": [
+      {
+        "id": "bulkCost",
+        "label": "Bulk material cost",
+        "type": "number",
+        "value": 48
+      },
+      {
+        "id": "units",
+        "label": "Units in bulk pack",
+        "type": "number",
+        "value": 120
+      },
+      {
+        "id": "used",
+        "label": "Units used per item",
+        "type": "number",
+        "value": 3
+      },
+      {
+        "id": "waste",
+        "label": "Waste buffer percent",
+        "type": "number",
+        "value": 10
+      }
+    ],
+    "recommendation_ids": [
+      "measuring-cups-set",
+      "storage-jars",
+      "inventory-labels"
+    ]
+  },
+  {
+    "slug": "craft-fair-break-even",
+    "title": "Craft Fair Break-Even Calculator",
+    "category": "Booths",
+    "kind": "break_even",
+    "description": "Estimate sales needed to cover booth, travel, and display costs.",
+    "fields": [
+      {
+        "id": "fixed",
+        "label": "Fixed event or booth costs",
+        "type": "number",
+        "value": 175
+      },
+      {
+        "id": "profit",
+        "label": "Average profit per item",
+        "type": "number",
+        "value": 12
+      },
+      {
+        "id": "buffer",
+        "label": "Buffer percent",
+        "type": "number",
+        "value": 15
+      }
+    ],
+    "recommendation_ids": [
+      "folding-table-cover",
+      "portable-card-reader-stand",
+      "display-risers"
+    ]
+  },
+  {
+    "slug": "shipping-weight-estimator",
+    "title": "Shipping Weight Estimator",
+    "category": "Pricing",
+    "kind": "shipping",
+    "description": "Estimate packed weight and packaging buffer before setting shipping rules.",
+    "fields": [
+      {
+        "id": "itemWeight",
+        "label": "Item weight in ounces",
+        "type": "number",
+        "value": 9
+      },
+      {
+        "id": "packageWeight",
+        "label": "Packaging weight in ounces",
+        "type": "number",
+        "value": 3
+      },
+      {
+        "id": "buffer",
+        "label": "Buffer percent",
+        "type": "number",
+        "value": 10
+      }
+    ],
+    "recommendation_ids": [
+      "shipping-scale",
+      "mailer-variety-pack",
+      "thermal-labels"
+    ]
+  },
+  {
+    "slug": "product-line-scorecard",
+    "title": "Product Line Scorecard",
+    "category": "Pricing",
+    "kind": "comparison",
+    "description": "Compare three product ideas against profit, repeatability, and packaging fit.",
+    "fields": [
+      {
+        "id": "fit",
+        "label": "Fit score 1-10",
+        "type": "number",
+        "value": 7
+      },
+      {
+        "id": "ease",
+        "label": "Ease score 1-10",
+        "type": "number",
+        "value": 6
+      },
+      {
+        "id": "marginScore",
+        "label": "Margin/capacity score 1-10",
+        "type": "number",
+        "value": 7
+      },
+      {
+        "id": "repeat",
+        "label": "Repeatability score 1-10",
+        "type": "number",
+        "value": 6
+      }
+    ],
+    "recommendation_ids": [
+      "pricing-notebook",
+      "inventory-tags",
+      "storage-bins"
+    ]
+  }
+]
