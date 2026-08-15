@@ -1,0 +1,62 @@
+{
+  "target_min_pages": 50,
+  "page_types": [
+    "product-fit",
+    "tool-buying-plan",
+    "printable-checklist",
+    "topic-hub"
+  ],
+  "intent": "accelerate qualified long-tail discovery without paid traffic or thin pages",
+  "category_hubs": [
+    {
+      "slug": "booths",
+      "title": "Booths"
+    },
+    {
+      "slug": "materials",
+      "title": "Materials"
+    },
+    {
+      "slug": "pricing",
+      "title": "Pricing"
+    }
+  ],
+  "product_fit_pages": [
+    "digital-scale",
+    "label-printer",
+    "clear-storage-bins",
+    "measuring-cups-set",
+    "storage-jars",
+    "inventory-labels",
+    "folding-table-cover",
+    "portable-card-reader-stand",
+    "display-risers",
+    "shipping-scale",
+    "mailer-variety-pack",
+    "thermal-labels",
+    "pricing-notebook",
+    "inventory-tags",
+    "storage-bins"
+  ],
+  "tool_plan_pages": [
+    "handmade-pricing-calculator",
+    "materials-cost-calculator",
+    "craft-fair-break-even",
+    "shipping-weight-estimator",
+    "product-line-scorecard"
+  ],
+  "checklist_pages": [
+    "handmade-pricing-mistakes-that-quietly-erase-profit",
+    "how-to-calculate-material-cost-per-finished-item",
+    "craft-fair-booth-break-even-planning",
+    "packaging-station-checklist-for-small-sellers",
+    "inventory-bin-labels-for-handmade-batches",
+    "shipping-weight-planning-before-listing-products",
+    "product-line-pruning-for-makers",
+    "booth-display-supplies-worth-measuring-first",
+    "margin-planning-for-custom-orders",
+    "batch-production-notes-that-reduce-waste",
+    "photo-checklist-before-publishing-a-listing",
+    "simple-reorder-point-planning-for-supplies"
+  ]
+}
