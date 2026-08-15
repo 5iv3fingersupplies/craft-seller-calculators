@@ -1,12 +1,12 @@
 {
-  "short": "CS",
+  "short": "HS",
   "accent": "#be123c",
   "secondary": "#0f766e",
   "warm": "#f97316",
   "surface": "#fff8fa",
   "soft": "#ffe8ef",
-  "hero_title": "Price with margin before the market opens.",
-  "promise": "Small seller calculators that turn costs into clearer buying decisions.",
+  "hero_title": "Price products like a handmade seller",
+  "promise": "Cost, booth, shipping, and supply calculators for craft sellers.",
   "primary_cta": "Run a seller calculator",
   "image_prompt": "A craft table with shipping scale, labels, product tags, display risers, and packaging."
 }

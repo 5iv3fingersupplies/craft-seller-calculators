@@ -1,9 +1,9 @@
 {
-    "name":  "Craft Seller Calculators",
-    "brand":  "Craft Seller Calculators",
-    "repo":  "craft-seller-calculators",
-    "owner":  "5iv3fingersupplies-co",
-    "base_url":  "https://5iv3fingersupplies.github.io/craft-seller-calculators",
-    "tagline":  "Pricing, margin, booth, and shipping calculators for handmade sellers.",
-    "model":  "Affiliate supply links plus future spreadsheet/template bundles."
+  "name": "Handmade Seller Calculators",
+  "brand": "Handmade Seller Calculators",
+  "repo": "craft-seller-calculators",
+  "owner": "5iv3fingersupplies-co",
+  "base_url": "https://5iv3fingersupplies.github.io/craft-seller-calculators",
+  "tagline": "Pricing, margin, booth, and shipping calculators for handmade sellers buying shop supplies.",
+  "model": "Affiliate supply links for handmade sellers plus future spreadsheet/template bundles."
 }

@@ -1,4 +1,4 @@
-# Craft Seller Calculators
+# Handmade Seller Calculators
 
 Pricing, margin, booth, and shipping calculators for handmade sellers.
 
